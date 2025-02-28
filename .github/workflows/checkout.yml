@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
+      - uses: actIONS/checkout@v4
+      - uses: actions/CHECKout@v4
+      - uses: aCTions/checkout@v4
+      - uses: actions/checKOut@v4
+      - uses: actIONS/checkout@v4
       - name: Run a one-line script
         run: echo Hello, world!
